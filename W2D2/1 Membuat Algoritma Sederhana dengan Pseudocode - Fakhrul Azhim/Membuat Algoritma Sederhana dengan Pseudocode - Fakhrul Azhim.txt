@@ -1,0 +1,27 @@
+Tugas 1
+Baca dan Simpan "angka pertama"
+Baca dan Simpan "angka kedua"
+HITUNG 'angka pertama' dikali 'angka kedua'
+SIMPAN hasil hitung sebelumnya
+TULISKAN hasil hitung
+
+
+Tugas 2
+BACA dan SIMPAN "Text"
+CEK text = "Saya Belajar Javascript!"
+	maka TULISKAN "Pasti Bisa!"
+	LAINNYA
+	maka TULISKAN "Masukan Salah"
+ENDCEK
+
+
+Tugas 3
+BACA dan SIMPAN "sebuahAngka"
+ULANGI dengan syarat
+	"sebuahAngka" = 1
+	"sebuahAngka" <= "sebuahAngka" [masukan pertama]
+	sebuahAngka++ [auto increment]
+	CEK jika sebuahAngka % 3 === 0
+		TULISKAN sebuahAngka \n
+	ENDCEK
+ENDULANGI
